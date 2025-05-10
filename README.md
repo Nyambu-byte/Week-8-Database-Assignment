@@ -5,7 +5,7 @@ This project is a MySQL-based relational database for managing clinic operations
 
 How to Setup
 1. Open MySQL Workbench or your SQL terminal.
-2. Run the `clinic_booking.sql` script to create the database and all tables.
+2. Run the `ClinicBookingSystem.sql` script to create the database and all tables.
 
 Entity Relationship Database
 
@@ -15,7 +15,7 @@ Features
 - Patient registration
 - Doctor assignment and scheduling
 - Appointment booking with status tracking
-- One-to-one payment processing
+- Payment processing
 
 Created By
 
